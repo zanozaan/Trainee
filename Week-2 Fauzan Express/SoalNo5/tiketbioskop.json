@@ -1,0 +1,13 @@
+[
+    {
+      "nomor order": 123456789,
+      "kode booking": 12345,
+      "bioskop": "TSM XXI",
+      "film": "ONE PIECE FILM: RED",
+      "studio": "2",
+      "tanggal": "21 Sep 2022",
+      "jam": "17.50 WIB",
+      "no kursi": "B15",
+      "harga": 40000
+    }
+  ]

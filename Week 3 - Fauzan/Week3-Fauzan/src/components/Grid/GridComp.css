@@ -1,0 +1,39 @@
+/* .container{
+  display: flex;
+} */
+
+.div-article {
+    width: 2000px;
+    background-color: #ddd;
+    padding: 15px 55px 15px 55px;
+  }
+  
+  .onclick {
+    display: flex; 
+    gap: 20px;
+    justify-content: center;
+    align-items: center; 
+  }  
+  
+  .button{
+    background-color: blue;
+    border: none;
+    color: black;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  button.button{
+    color: black;
+  }
+  .Harga{
+    text-align: center;
+    text-decoration: none;
+    height: auto;
+    font-size: 50px;
+  }

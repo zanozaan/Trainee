@@ -1,0 +1,22 @@
+/* .container{
+    display: flex;
+} */
+.item1{
+    grid-area: header;
+}
+
+.grid-header {
+    display: grid;
+    grid-template-areas:'auto auto auto auto ';
+    gap: 15px;
+    background-color: #fff;
+    padding: 5px;
+  }
+
+  .grid-header > div {
+    background-color: #800080;
+    text-align: center;
+    padding: 5px 0;
+    font-size: 50px;
+    color: white;
+  }

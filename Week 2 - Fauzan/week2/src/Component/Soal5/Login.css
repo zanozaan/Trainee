@@ -1,0 +1,17 @@
+.Login{
+    background-color: #68b;
+}
+
+    .form-group{
+        font-size: 25px;
+        font-weight: bold;
+    }
+    
+    .link{
+        font-size: 20px;
+        font-weight: 400;
+    }
+
+    a{
+        color: blue;
+    }
